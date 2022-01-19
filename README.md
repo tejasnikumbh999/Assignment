@@ -6,9 +6,10 @@ Generate-MongoDB-dataset-using-Python
 --->3 inputs must be validated (name-capitalized, ph-10 numbers only, emaild id (uni fe)-mailid format) 
 --->insert it into mongodb and get (print) status (using try and  exceptions (OPTIONAL))
 --->insert image also.
-  
-The code is created for MongoDB in cloud.  
-The particular code is written in Python.
+
+
+#The code is created for MongoDB in cloud.  
+#The particular code is written in Python.
 
 # pre-reqisite:
 1. install dnspython
