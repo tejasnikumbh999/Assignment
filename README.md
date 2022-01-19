@@ -5,9 +5,8 @@ Generate-MongoDB-dataset-using-Python --->3 user inputs (name,ph, email id)  ---
 
   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   
-# The code is created for MongoDB in cloud.
-
-# The particular code is written in Python.
+The code is created for MongoDB in cloud.  
+The particular code is written in Python.
 
 # pre-reqisite:
 1. install dnspython
