@@ -24,7 +24,7 @@ Description:
 2. replace '<password>' with your MongoDB password.
   
   --in the following code:
-    client = pymongo.MongoClient("mongodb+srv://<username>:<password>@cluster0.o6jct.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+  client = pymongo.MongoClient("mongodb+srv://<username>:<password>@cluster0.o6jct.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
   
   
   
