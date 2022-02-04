@@ -1,13 +1,7 @@
 
 # Assignment
-
+#Bank Database
 # Generate-MongoDB-dataset-using-Python:
-
-Description:
-1. 3 user inputs (name,ph, email id)  
-2. 3 inputs must be validated (name-capitalized, ph-10 numbers only, emaild id (uni fe)-mailid format) 
-3. insert it into mongodb and get (print) status (using try and  exceptions (OPTIONAL))
-4. insert image also.
 
 
 #The code is created for MongoDB in cloud.  
